@@ -129,7 +129,7 @@ Use the input box at the top to interact with the AI assistant. Try queries like
 
 "What was the last analysis from the Maintenance Engineer?"
 📁 File Structure
-agentmesh/
+```agentmesh/
 ├── .env                  # Stores API keys and environment variables
 ├── requirements.txt      # Project dependencies
 ├── factory_simulator.py  # Simulates the factory's digital twin
@@ -137,5 +137,6 @@ agentmesh/
 ├── llm_query.py          # Handles communication with the OpenAI LLM
 ├── main.py               # The FastAPI backend server
 └── dashboard.py          # The Streamlit frontend application
+```
 
 
