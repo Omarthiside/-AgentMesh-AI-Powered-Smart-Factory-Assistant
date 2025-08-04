@@ -109,11 +109,11 @@ What was the last analysis from the Maintenance Engineer?
 📁 File Structure
 The project is organized into modular Python scripts:
 
-agentmesh/
-├── .env                  # Stores API keys and environment variables
-├── requirements.txt      # Project dependencies
-├── factory_simulator.py  # Simulates the factory's digital twin
-├── agents_and_tasks.py   # Defines the CrewAI agents and their tasks
-├── llm_query.py          # Handles communication with the OpenAI LLM
-├── main.py               # The FastAPI backend server
-└── dashboard.py          # The Streamlit frontend application
+   # agentmesh/
+   # ├── .env                  # Stores API keys and environment variables
+   # ├── requirements.txt      # Project dependencies
+   # ├── factory_simulator.py  # Simulates the factory's digital twin
+  # ├── agents_and_tasks.py   # Defines the CrewAI agents and their tasks
+#   ├── llm_query.py          # Handles communication with the OpenAI LLM
+ #  ├── main.py               # The FastAPI backend server
+#   └── dashboard.py          # The Streamlit frontend application
