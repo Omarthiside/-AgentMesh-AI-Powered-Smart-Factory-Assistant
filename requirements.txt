@@ -1,0 +1,7 @@
+crewai
+fastapi
+openai
+uvicorn
+python-dotenv
+streamlit
+requests
