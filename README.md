@@ -61,7 +61,7 @@ Follow these steps to set up and run the project locally.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Omarthiside/-AgentMesh-AI-Powered-Smart-Factory-Assistant.git
 cd agentmesh
 ```
 3. Set Up the Environment
